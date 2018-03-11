@@ -1,0 +1,87 @@
+[
+    {
+      "xAxis": {
+        "title": "Angka Harapan Hidup 2010",
+        "yyyy": "2018"
+      },
+      "series": [
+        {
+          "data": [
+            {"value":68.50,"name":"Provinsi Banten"},
+            {"value":69.81,"name":"Negara Indonesia"}
+          ]
+        }
+      ]
+    },
+    {
+      "xAxis": {
+        "title": "Angka Harapan Hidup 2011",
+        "yyyy": "2018"
+      },
+      "series": [
+        {
+          "data": [
+            {"value":68.68,"name":"Provinsi Banten"},
+            {"value":70.01,"name":"Negara Indonesia"}
+          ]
+        }
+      ]
+    },
+    {
+      "xAxis": {
+        "title": "Angka Harapan Hidup 2012",
+        "yyyy": "2018"
+      },
+      "series": [
+        {
+          "data": [
+            {"value":68.86,"name":"Provinsi Banten"},
+            {"value":70.20,"name":"Negara Indonesia"}
+          ]
+        }
+      ]
+    },
+    {
+      "xAxis": {
+        "title": "Angka Harapan Hidup 2013",
+        "yyyy": "2018"
+      },
+      "series": [
+        {
+          "data": [
+            {"value":69.04,"name":"Provinsi Banten"},
+            {"value":70.40,"name":"Negara Indonesia"}
+          ]
+        }
+      ]
+    },
+    {
+      "xAxis": {
+        "title": "Angka Harapan Hidup 2014",
+        "yyyy": "2018"
+      },
+      "series": [
+        {
+          "data": [
+            {"value":69.13,"name":"Provinsi Banten"},
+            {"value":70.59,"name":"Negara Indonesia"}
+          ]
+        }
+      ]
+    },
+    {
+      "xAxis": {
+        "title": "Angka Harapan Hidup 2015",
+        "yyyy": "2018"
+      },
+      "series": [
+        {
+          "data": [
+            {"value":69.43,"name":"Provinsi Banten"},
+            {"value":70.78,"name":"Negara Indonesia"}
+          ]
+        }
+      ]
+    }
+  ]
+  
