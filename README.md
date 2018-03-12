@@ -37,6 +37,14 @@ $ git clone https://github.com/bantenprov/angka-harapan-hidup.git
 
 ```
 
+#### Untuk publish component vue :
+
+```bash
+$ php artisan vendor:publish --tag=angka-harapan-hidup-assets
+$ php artisan vendor:publish --tag=angka-harapan-hidup-public
+```
+
+
 #### Tambahkan route di dalam route : `resources/assets/js/routes.js` :
 
 ```javascript
@@ -113,7 +121,7 @@ children: [
     //== ...
     {
       name: 'Angka Harapan Hidup',
-      link: '/admin/dashboard/angka-harapan-hidup',
+      link: '/dashboard/angka-harapan-hidup',
       icon: 'fa fa-angle-right'
     }
   ]
@@ -177,11 +185,4 @@ Vue.component('angka-harapan-hidup-pie-02', AngkaHarapanHidupPie02);
 import AngkaHarapanHidupPie03 from './components/views/bantenprov/angka-harapan-hidup/AngkaHarapanHidupPie03.vue';
 Vue.component('angka-harapan-hidup-pie-03', AngkaHarapanHidupPie03);
 ```
-
-#### Untuk publish component vue :
-
-```bash
-$ php artisan vendor:publish --tag=angka-harapan-hidup-assets
-```
-
 
